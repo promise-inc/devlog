@@ -1,6 +1,8 @@
-<img src="https://raw.githubusercontent.com/promise-inc/devlog/main/assets/logo.svg" alt="devlog" height="36" />
-
-Simple logger with automatic context (file + line). Zero dependencies.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/promise-inc/devlog/main/assets/logo.svg" alt="devlog" height="36" />
+  <br><br>
+  Simple logger with automatic context (file + line). Zero dependencies.
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/promise-inc/devlog/main/assets/output.svg" alt="devlog output" width="680" />
