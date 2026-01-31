@@ -1,4 +1,4 @@
-# devlog
+<img src="./assets/logo.svg" alt="devlog" height="36" />
 
 Simple logger with automatic context (file + line). Zero dependencies.
 
@@ -9,13 +9,13 @@ Simple logger with automatic context (file + line). Zero dependencies.
 ## Install
 
 ```bash
-npm install devlog
+npm install @promise-inc/devlog
 ```
 
 ## Usage
 
 ```ts
-import { log } from "devlog";
+import { log } from "@promise-inc/devlog";
 
 log.info("User created", { userId: 42 });
 log.warn("Deprecated method");
@@ -27,7 +27,7 @@ log.debug("Cache hit", { key: "users:1" });
 ## Custom instance
 
 ```ts
-import { createLogger } from "devlog";
+import { createLogger } from "@promise-inc/devlog";
 
 const logger = createLogger({
   enabled: true,

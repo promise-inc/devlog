@@ -1,5 +1,5 @@
 {
-  "name": "devlog",
+  "name": "@promise-inc/devlog",
   "version": "0.1.0",
   "type": "module",
   "description": "Simple logger with automatic context (file + line)",

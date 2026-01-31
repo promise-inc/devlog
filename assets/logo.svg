@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="44" viewBox="0 0 420 44">
+  <text font-family="monospace" font-size="28" y="30">
+    <tspan x="0" fill="#6b7280">14:30:00</tspan>
+    <tspan fill="#3b82f6" font-weight="bold"> [DEV]</tspan>
+    <tspan fill="#cdd6f4" font-weight="bold"> log</tspan>
+  </text>
+</svg>
