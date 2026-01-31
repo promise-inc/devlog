@@ -2,6 +2,10 @@
 
 Simple logger with automatic context (file + line). Zero dependencies.
 
+<p align="center">
+  <img src="./assets/output.svg" alt="devlog output" width="680" />
+</p>
+
 ## Install
 
 ```bash
@@ -43,23 +47,8 @@ logger.info("Custom logger");
 
 ## Output
 
-### Node.js
-
-<p align="center">
-  <img src="./assets/output.svg" alt="devlog output" width="680" />
-</p>
-
-### Browser
-
-Uses `console.groupCollapsed` with `%c` styling for colored labels. Data is nested inside collapsible groups.
-
-## Levels
-
-- `debug` — Gray, only in development
-- `info` — Blue
-- `success` — Green
-- `warn` — Yellow
-- `error` — Red
+- **Node.js** — Colored output with ANSI escape codes
+- **Browser** — `console.groupCollapsed` with `%c` styling. Data nested inside collapsible groups
 
 ---
 
