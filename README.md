@@ -52,6 +52,13 @@ logger.info("Custom logger");
 - **Node.js** — Colored output with ANSI escape codes
 - **Browser** — `console.groupCollapsed` with `%c` styling. Data nested inside collapsible groups
 
+## Other packages by Promise Inc.
+
+| Package | Description |
+|---------|-------------|
+| [`@promise-inc/ui-states`](https://www.npmjs.com/package/@promise-inc/ui-states) | Auto-generated skeleton loading states from real DOM — zero config React component |
+| [`@promise-inc/ai-guard`](https://www.npmjs.com/package/@promise-inc/ai-guard) | Detect AI-generated code patterns before commit/push. Not a linter — a guard |
+
 ---
 
 Developed by [Promise Inc.](https://promise.codes)
