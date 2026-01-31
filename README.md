@@ -56,8 +56,8 @@ logger.info("Custom logger");
 
 | Package | Description |
 |---------|-------------|
-| [`@promise-inc/ui-states`](https://www.npmjs.com/package/@promise-inc/ui-states) | Auto-generated skeleton loading states from real DOM — zero config React component |
-| [`@promise-inc/ai-guard`](https://www.npmjs.com/package/@promise-inc/ai-guard) | Detect AI-generated code patterns before commit/push. Not a linter — a guard |
+| [`@promise-inc/ui-states`](https://www.npmjs.com/package/@promise-inc/ui-states) | Auto-skeleton from real DOM |
+| [`@promise-inc/ai-guard`](https://www.npmjs.com/package/@promise-inc/ai-guard) | Detect AI-generated code patterns |
 
 ## License
 
