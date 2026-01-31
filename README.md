@@ -45,11 +45,9 @@ logger.info("Custom logger");
 
 ### Node.js
 
-Colored output with ANSI escape codes:
-
-```
-14:30:00 [INFO] User created src/services/user.ts:42
-```
+<p align="center">
+  <img src="./assets/output.svg" alt="devlog output" width="680" />
+</p>
 
 ### Browser
 
