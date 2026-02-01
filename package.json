@@ -1,6 +1,6 @@
 {
   "name": "@promise-inc/devlog",
-  "version": "0.1.5",
+  "version": "0.1.8",
   "type": "module",
   "description": "Simple logger with automatic context (file + line)",
   "main": "./dist/index.js",
@@ -14,6 +14,27 @@
   "scripts": {
     "build": "tsc",
     "clean": "rm -rf dist"
+  },
+  "keywords": [
+    "logger",
+    "logging",
+    "debug",
+    "console",
+    "context",
+    "file-line",
+    "zero-dependencies",
+    "devtools",
+    "developer-tools",
+    "promise-inc",
+    "open-source"
+  ],
+  "homepage": "https://promise.codes/open-source/devlog",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/promise-inc/devlog.git"
+  },
+  "bugs": {
+    "url": "https://github.com/promise-inc/devlog/issues"
   },
   "files": [
     "dist"
